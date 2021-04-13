@@ -11,6 +11,7 @@ public class Main {
                 a = a + number;
                 System.out.println(a);
             }
+            System.out.println("Privet GitHub");
         }
     }
 //    public static void main(String[] args) {
