@@ -12,6 +12,5 @@ public class MainHello {
             System.out.println("вы ввели 0");
         else
             System.out.println("вы ввели отрицательное число");
-
     }
 }
